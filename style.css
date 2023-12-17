@@ -1,0 +1,47 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center; /*alinhar texto ao centro*/
+    margin: 10px auto;
+}
+
+#principal {
+    width: 592px;
+    margin: 10px auto;
+}
+h1 {
+    font-family: 'Open Sans', sans-serif; /*tipo da fonte*/
+    font-size: 49px; /*tamnho da fonte em %*/
+}
+
+h1 span {
+    font-weight: bold;
+    color: #EE24FF;
+}
+p {
+    margin: 10px 15px 15px 20px;
+    
+}
+p span, a {
+    font-weight: bold;
+    color: #3F3D56;
+}
+#home{
+    padding: 10px 10px 15px 20px;
+    margin: 10px 15px;
+    color: #3F3D56;
+    font-size: 14px;
+    line-height: 28px; /*altura da caixa que um conteúdo de texto pertence*/
+    
+}
+#home a{
+    margin-left: 28px;
+    text-decoration: none;
+
+}
+#efeito {
+    width:100% ;
+    position: absolute; top: 600px; left: 0px; bottom: 0px; font-size: x-small;
+}
+
+    
